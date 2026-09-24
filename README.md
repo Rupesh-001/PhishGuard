@@ -63,21 +63,6 @@ Safe Email
 * **VS Code**
 * **ESLint**
 
----
-
-## 📂 Project Structure
-
-```text
-PhishGuard/
-│
-├── public/
-│
-
-
-> The exact structure may vary as the project continues to evolve.
-
----
-
 ## ⚙️ Installation
 
 ### 1. Clone the repository
