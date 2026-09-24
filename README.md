@@ -72,21 +72,7 @@ PhishGuard/
 │
 ├── public/
 │
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── pages/
-│   ├── App.jsx
-│   └── main.jsx
-│
-├── .gitignore
-├── eslint.config.js
-├── index.html
-├── package.json
-├── package-lock.json
-├── vite.config.js
-└── README.md
-```
+
 
 > The exact structure may vary as the project continues to evolve.
 
